@@ -10,13 +10,13 @@ This is my log of everything I learn on Front End Development: resources and sta
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           |   Year   | Course                                                          |
-|:---------------------------:|:---------|:----------------------------------------------------------------|
-| ![In Progress][In Progress] | 2018-2019| [Frontend Masters: Beginner Path](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)                                 |
-| ![In Progress][In Progress] | 2017-2019| [FreeCodeCamp](https://learn.freecodecamp.org/)                                                    |
-| ![Completed][Completed]     | Dec 2018 | [Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001                             |
-| ![Completed][Completed]     | 2018     | [Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships                          |
-| ![Completed][Completed]     | 2016     | [Python Workshop by Django Girls](https://djangogirls.org/)                                 |
+|            Status           |   Year    | Course                                                          |
+|:---------------------------:|:--------- |:----------------------------------------------------------------|
+| ![In Progress][In Progress] | 2018-2019 | [Frontend Masters: Beginner Path](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)                                 |
+| ![In Progress][In Progress] | 2017-2019 | [FreeCodeCamp](https://learn.freecodecamp.org/)                                                    |
+| ![Completed][Completed]     | Dec 2018  | [Front-End Web Developer Nanodegree] https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001                             |
+| ![Completed][Completed]     | 2018      | [Google Developer Challenge Scholarship] https://www.udacity.com/google-scholarships                          |
+| ![Completed][Completed]     | 2016      | [Python Workshop by Django Girls](https://djangogirls.org/)                                 |
 
 [//]: # (Reference links to courses)
 
