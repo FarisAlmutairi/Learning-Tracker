@@ -38,6 +38,9 @@ I'm currently interested in:
 + CSS
 + JavaScript
 + JavaScript Frameworks
+
+## What I want to learn in the near future
+
 + iOS Mobile Web Development
 + Python
 + Data Visualisation
