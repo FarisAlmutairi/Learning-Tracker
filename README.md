@@ -12,11 +12,11 @@ This is my log of everything I learn on Front End Development: resources and sta
 
 |            Status           |   Year   | Course                                                          |
 |:---------------------------:|:---------|:----------------------------------------------------------------|
-| ![In Progress][In Progress] | 2018-2019| [Frontend Masters: Beginner Path]                               |
-| ![In Progress][In Progress] | 2017-2019| [FreeCodeCamp]                                                  |
-| ![Completed][Completed]     | Dec 2018 | [Front End Web Developer Nanodegree]                            |
-| ![Completed][Completed]     | 2018     | [Google Developer Challenge Scholarship]                        |
-| ![Completed][Completed]     | 2016     | [Python Workshop by Django Girls]                               |
+| ![In Progress][In Progress] | 2018-2019| Frontend Masters: Beginner Path                                 |
+| ![In Progress][In Progress] | 2017-2019| FreeCodeCamp                                                    |
+| ![Completed][Completed]     | Dec 2018 | Front End Web Developer Nanodegree                              |
+| ![Completed][Completed]     | 2018     | Google Developer Challenge Scholarship                          |
+| ![Completed][Completed]     | 2016     | Python Workshop by Django Girls                                 |
 
 [//]: # (Reference links to courses)
 
@@ -38,24 +38,17 @@ I'm currently interested in:
 + CSS
 + JavaScript
 + JavaScript Frameworks
-
-## What I learn further
-
 + iOS Mobile Web development
 + Python
 + Data Visualisation
 
-----
-
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
-
-**You can [follow me on Twitter](https://twitter.com/gaini_z "@gaini_z")
-
-----
-
 ### Acknowledgments
 
 This repo was inspired by [Syk Houdeib](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [Shovan Chatterjee](https://github.com/shovanch/fullstack-web-developer-path).
+
+Feel free to fork this repo and customise it :)
+
+You can [follow me on Twitter](https://twitter.com/gaini_z "@gaini_z")
 
 ### License
 
