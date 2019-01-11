@@ -25,11 +25,11 @@ This is my log of everything I learn on Front End Development: resources and sta
 [Frontend Masters]: https://frontendmasters.com
 [Django Girls]: https://djangogirls.org/
 
-##Books I can recommend
+## Books I can recommend
 
-+ JavaScript & jQuery by Jon Duckett: http://javascriptbook.com/
-+ HTML & CSS by Jon Duckett: http://www.htmlandcssbook.com/
-+ Head First JavaScript Programming by Elisabeth Robson, Eric T. Freeman: https://www.oreilly.com/library/view/head-first-javascript/9781449340124/
++ [JavaScript & jQuery by Jon Duckett](http://javascriptbook.com)
++ [HTML & CSS by Jon Duckett](http://www.htmlandcssbook.com)
++ [Head First JavaScript Programming by Elisabeth Robson, Eric T. Freeman](https://www.oreilly.com/library/view/head-first-javascript/9781449340124)
 
 ## Interests
 
