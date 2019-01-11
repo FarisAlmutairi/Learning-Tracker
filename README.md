@@ -39,7 +39,7 @@ I'm currently interested in:
 + JavaScript
 + JavaScript Frameworks
 
-## What I want to learn in the near future
+What I want to learn in the near future
 
 + iOS Mobile Web Development
 + Python
