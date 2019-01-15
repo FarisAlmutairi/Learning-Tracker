@@ -12,9 +12,9 @@ This is my log of everything I learn on Front End Development: resources and sta
 
 |            Status           |   Year        | Course                                                          |
 |:---------------------------:|:--------------|:---------------------------------------------------------------------------------------------------------------|
-| ![In Progress][In Progress] | 2018-2019     | [Frontend Masters: Beginner Path](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)     |
-| ![In Progress][In Progress] | 2017-2019     | [FreeCodeCamp](https://learn.freecodecamp.org/)                                                                |
-| ![Completed][Completed]     | Dec 2018      | [Front-End Web Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) |
+| ![In Progress][In Progress] | 2018-2019     | [All Paths of Frontend Masters](https://frontendmasters.com)                                                   |
+| ![In Progress][In Progress] | 2017-2019     | [Full Stack Certification FreeCodeCamp](https://learn.freecodecamp.org/)                                       |
+| ![Completed][Completed]     | Dec 2018      | [Front-End Web Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)  |
 | ![Completed][Completed]     | 2018          | [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships)                          |
 | ![Completed][Completed]     | 2016          | [Python Workshop by Django Girls](https://djangogirls.org/)                                                    |
 
@@ -37,19 +37,13 @@ I'm currently interested in:
 
 + CSS
 + JavaScript
-+ JavaScript Frameworks
-
-What I want to try out in the near future:
-
-+ iOS Mobile Web Development
-+ Python
-+ Data Visualisation
++ JavaScript Libraries & Frameworks
 
 ### Acknowledgments
 
 This repo was inspired by [Syk Houdeib](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [Shovan Chatterjee](https://github.com/shovanch/fullstack-web-developer-path).
 
-Feel free to fork this repo and customise it :)
+Feel free to fork or download this repo and customise it :)
 
 You can [follow me on Twitter](https://twitter.com/gaini_z "@gaini_z")
 
