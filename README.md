@@ -30,6 +30,7 @@ This is my log of everything I learn on Front End Development: resources and sta
 + [JavaScript & jQuery by Jon Duckett](http://javascriptbook.com)
 + [HTML & CSS by Jon Duckett](http://www.htmlandcssbook.com)
 + [Head First JavaScript Programming by Elisabeth Robson, Eric T. Freeman](https://www.oreilly.com/library/view/head-first-javascript/9781449340124)
++ [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 
 ## Interests
 
