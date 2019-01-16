@@ -44,7 +44,7 @@ I'm currently interested in:
 
 This repo was inspired by [Syk Houdeib](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months), [Shovan Chatterjee](https://github.com/shovanch/fullstack-web-developer-path) and [Waqar Mohammad](https://github.com/waqardm/devNewbieLearningResources).
 
-Feel free to fork or download this repo and customise it :)
+Feel free to fork or download this repo and customise it.
 
 You can [follow me on Twitter](https://twitter.com/gaini_z "@gaini_z")
 
