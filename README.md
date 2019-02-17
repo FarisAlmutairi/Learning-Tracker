@@ -42,7 +42,7 @@ My main focus:
 
 + CSS
 + JavaScript
-+ JavaScript Libraries & Frameworks
++ Libraries & Frameworks
 
 Where I want to expand my horizon:
 
