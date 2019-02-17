@@ -29,13 +29,6 @@ This is my log of everything I learn on Front End Development: sources and statu
 [Frontend Masters]: https://frontendmasters.com
 [Django Girls]: https://djangogirls.org/
 
-## Books I can recommend
-
-+ [JavaScript & jQuery by Jon Duckett](http://javascriptbook.com)
-+ [HTML & CSS by Jon Duckett](http://www.htmlandcssbook.com)
-+ [Head First JavaScript Programming by Elisabeth Robson, Eric T. Freeman](https://www.oreilly.com/library/view/head-first-javascript/9781449340124)
-+ [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
-
 ## Interests
 
 My main focus:
@@ -48,6 +41,19 @@ Where I want to expand my horizon:
 
 + Python & Django
 + Data Visualization
+
+## Books I can recommend
+
++ [JavaScript & jQuery by Jon Duckett](http://javascriptbook.com)
++ [HTML & CSS by Jon Duckett](http://www.htmlandcssbook.com)
++ [Head First JavaScript Programming by Elisabeth Robson, Eric T. Freeman](https://www.oreilly.com/library/view/head-first-javascript/9781449340124)
++ [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
+
+## Inspiring YouTube Channels
+
++ [Tech Lead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
++ [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
++ [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 ### Acknowledgments
 
