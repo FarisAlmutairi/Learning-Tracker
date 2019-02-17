@@ -38,11 +38,16 @@ This is my log of everything I learn on Front End Development: sources and statu
 
 ## Interests
 
-I'm currently interested in:
+My main focus:
 
 + CSS
 + JavaScript
 + JavaScript Libraries & Frameworks
+
+Where I want to expand my horizon:
+
++ Python & Django
++ Data Visualization
 
 ### Acknowledgments
 
