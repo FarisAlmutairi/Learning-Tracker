@@ -18,7 +18,7 @@ This is my log of everything I learn on Front End Development: sources and statu
 | ![Completed][Completed]     | 01.-02.2019   | [CSS Grids and Flexbox for Responsive Web Design, Frontend Masters](https://frontendmasters.com/courses/css-grids-flexbox/)                                                                                               |
 | ![Completed][Completed]     | 01.2019       | [Introduction to JavaScript Programming, Frontend Masters ](https://frontendmasters.com/courses/javascript-basics/)                                                                                                      |
 | ![Completed][Completed]     | 01.2019       | [Complete Intro to Web Development, Frontend Masters v2](https://frontendmasters.com/courses/web-development-v2/)                                                                                                   |
-| ![Completed][Completed]     | Dec 2018      | [Front-End Web Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)  |
+| ![Completed][Completed]     | 12.2018       | [Front-End Web Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)  |
 | ![Completed][Completed]     | 2018          | [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships)                          |
 | ![Completed][Completed]     | 2016          | [Python Workshop by Django Girls](https://djangogirls.org/)                                                    |
 
