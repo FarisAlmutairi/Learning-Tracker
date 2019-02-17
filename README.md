@@ -62,7 +62,7 @@ This repo was inspired by [Syk Houdeib](https://github.com/Syknapse/My-Learning-
 
 Feel free to fork or download this repo and customise it.
 
-You can [find me on Twitter](https://twitter.com/gaini_z "@gaini_z")
+You can find me on [Twitter](https://twitter.com/gaini_z "@gaini_z")
 
 ### License
 
