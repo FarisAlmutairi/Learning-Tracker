@@ -54,6 +54,7 @@ Where I want to expand my horizon:
 + [Tech Lead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 + [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
 + [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
++ [Senior Software Vlogger](https://www.youtube.com/user/rojkovdima)
 
 ### Acknowledgments
 
