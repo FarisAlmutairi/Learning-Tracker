@@ -44,7 +44,9 @@ My main focus:
 
 Where I want to expand my horizon:
 
-+ Python & Django
++ CSS Animation
++ Backend Development
++ Mobile App Development
 + Data Visualization
 
 ## Books I can recommend
