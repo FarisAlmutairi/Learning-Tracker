@@ -16,17 +16,17 @@ This is my log of everything I learn on Front End Development: sources and statu
 | ![In Progress][In Progress] | 2017-2019     | [Full Stack Certification FreeCodeCamp](https://learn.freecodecamp.org/)                                       |
 | ![In Progress][In Progress] | 2019          | [Introduction to Computer Science,  Harvard's CS50](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi) 
 | ![Completed][Completed]     | 07.2019       | [JavaScript Algorithms and Data Structures, freeCodeCamp](https://www.freecodecamp.org/certification/gainizh/javascript-algorithms-and-data-structures)|
-| ![Completed][Completed]     | 07.2019       | [Four Semesters of Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/)|
-| ![Completed][Completed]     | 06.2019       | [Design for Developers](https://frontendmasters.com/courses/design-for-developers/)|
-| ![Completed][Completed]     | 05.2019       | [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/)|
+| ![Completed][Completed]     | 07.2019       | [Four Semesters of Computer Science in 5 Hours, Frontend Masters](https://frontendmasters.com/courses/computer-science/)|
+| ![Completed][Completed]     | 06.2019       | [Design for Developers, Frontend Masters](https://frontendmasters.com/courses/design-for-developers/)|
+| ![Completed][Completed]     | 05.2019       | [JavaScript: The Hard Parts, Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts/)|
 | ![Completed][Completed]     | 04.2019       | [JavaScript Grammar](https://www.goodreads.com/book/show/44643716-javascript-grammar)|
-| ![Completed][Completed]     | 02.2019       | [Mastering Chrome Developer Tools v2](https://frontendmasters.com/courses/chrome-dev-tools-v2/)                 |
-| ![Completed][Completed]     | 02.2019       | [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)|
+| ![Completed][Completed]     | 02.2019       | [Mastering Chrome Developer Tools v2, Frontend Masters](https://frontendmasters.com/courses/chrome-dev-tools-v2/)                 |
+| ![Completed][Completed]     | 02.2019       | [JavaScript: From Fundamentals to Functional JS, v2, Frontend Masters](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)|
 | ![Completed][Completed]     | 01.-02.2019   | [CSS Grids and Flexbox for Responsive Web Design, Frontend Masters](https://frontendmasters.com/courses/css-grids-flexbox/)|
 | ![Completed][Completed]     | 01.2019       | [Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/certification/gainizh/responsive-web-design)        |
 | ![Completed][Completed]     | 01.2019       | [Introduction to JavaScript Programming, Frontend Masters ](https://frontendmasters.com/courses/javascript-basics/)        |
 | ![Completed][Completed]     | 01.2019       | [Complete Intro to Web Development, Frontend Masters v2](https://frontendmasters.com/courses/web-development-v2/) |
-| ![Completed][Completed]     | 12.2018       | [Front-End Web Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)  |
+| ![Completed][Completed]     | 12.2018       | [Front-End Web Developer Nanodegree, Udacity](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)  |
 | ![Completed][Completed]     | 2018          | [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships)                          |
 | ![Completed][Completed]     | 2016          | [Python Workshop by Django Girls](https://djangogirls.org/)                                                    |
 
